@@ -1,0 +1,5 @@
+sitemaps:
+  complete:
+    origin: https://www.managed-keycloak.com
+    source: /query-index.json
+    destination: /sitemap-complete.xml
